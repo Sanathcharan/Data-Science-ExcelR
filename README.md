@@ -7,3 +7,5 @@
 [Logistic Regression](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/logistic_regression.ipynb)
 
 [Cross Validation](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/Crossvalidation.ipynb)
+
+[Regularization](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/Regularization.ipynb)
