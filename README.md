@@ -10,6 +10,6 @@
 
 [Regularization](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/Regularization.ipynb)
 
-[SVM(support vector machine)])(https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/SVM.ipynb)
+[SVM(support vector machine)](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/SVM.ipynb)
 
 
