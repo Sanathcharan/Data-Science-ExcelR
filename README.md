@@ -13,3 +13,6 @@
 [SVM(support vector machine)](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/SVM.ipynb)
 
 [Decision Tree](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/Decision_Tree.ipynb)
+
+[K-mean](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/KMeans.ipynb)
+
