@@ -19,3 +19,5 @@
 [DBscan](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/DBscan.ipynb)
 
 [Boosting](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/Boosting.ipynb)
+
+[Bagging](https://github.com/Sanathcharan/Data-Science-ExcelR/blob/main/bagging.ipynb)
